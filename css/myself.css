@@ -1,0 +1,18 @@
+table {
+    width: 90%;
+    margin: 10px auto;
+    border-collapse: collapse;/*border-collapse:collapse合并内外边距(去除表格单元格默认的2个像素内外边距*/
+}
+
+.wxx th{
+    background-color: #c3dde0; 
+    border: 1px solid #a9c6c9; 
+    padding: 8px; 
+    text-align: center;
+}
+
+.wxx td{  
+    background-color:#d4e3e5; 
+    border: 1px solid #a9c6c9; 
+    padding: 8px;
+} 
